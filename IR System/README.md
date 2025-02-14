@@ -6,8 +6,8 @@ may be of completely different words but can convey the same meaning.
 We should be able to capture that as well.
 An information retrieval (IR) system allows users to efficiently
 search documents and retrieve meaningful information based on a
-search text/query
+search text/query.
 ![alt text](image.png)
 
 ## About the previous Notebook
-In the previous notebook I implemented IR system depending on word embeddings (word2vec) 
+In the previous notebook I implemented IR system depending on word embeddings (word2vec). 
